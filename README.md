@@ -48,3 +48,4 @@ def predict_tree(image_path):
 
 # Example usage
 # predict_tree("example_tree.jpg")
+ear
